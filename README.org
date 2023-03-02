@@ -1,0 +1,31 @@
+#+OPTIONS: date:nil title:nil toc:nil author:nil
+#+STARTUP: overview
+----------------------------------------------------------------
+#+BEGIN_HTML
+<div align="center">
+
+  <!-- License -->
+  <a href="https://github.com/Federico-II-Informatica/II-ANNO/blob/main/LICENSE"
+          ><img
+              src="https://img.shields.io/badge/License-GPL_v3-blue.svg?style=for-the-badge&color=red"
+              alt="License"
+      /></a>
+
+  <!-- Repository Size -->
+  <a href="https://github.com/Federico-II-Informatica/I-ANNO/archive/refs/heads/main.zip"><img
+        src="https://img.shields.io/github/repo-size/Federico-II-Informatica/II-ANNO?style=for-the-badge"
+        alt="GitHub repository size"
+    /></a>
+
+  <!-- Last Commit -->
+  <a href="https://github.com/Federico-II-Informatica/II-ANNO/commits/main"
+    ><img
+    src="https://img.shields.io/github/last-commit/Federico-II-Informatica/II-ANNO?style=for-the-badge"
+    alt="Last commit"
+  /></a>
+
+</div>
+
+<h1 align="center">Appunti della laurea triennale in Informatica - 2° anno</h1>
+<h2 align="center">Federico II</h2>
+#+END_HTML
