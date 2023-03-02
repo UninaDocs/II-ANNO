@@ -12,7 +12,7 @@
       /></a>
 
   <!-- Repository Size -->
-  <a href="https://github.com/Federico-II-Informatica/I-ANNO/archive/refs/heads/main.zip"><img
+  <a href="https://github.com/Federico-II-Informatica/II-ANNO/archive/refs/heads/main.zip"><img
         src="https://img.shields.io/github/repo-size/Federico-II-Informatica/II-ANNO?style=for-the-badge"
         alt="GitHub repository size"
     /></a>
